@@ -1,0 +1,14 @@
+Label
+Node2D
+Control
+LightOccluder2D
+CanvasModulate
+DirectionalLight2D
+CollisionShape2D
+AnimatedSprite2D
+Area2D
+Sprite2D
+ParallaxLayer
+ParallaxBackground
+AnimationPlayer
+Camera2D

@@ -1,0 +1,4 @@
+res://levels/world_01.tscn
+res://levels/shaders/mov_clouds.gdshader
+res://actors/player.tscn
+res://prefabs/coin.tscn
